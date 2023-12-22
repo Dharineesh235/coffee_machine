@@ -1,0 +1,29 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+__venv__/
+env/
+.venv/
+env.bak/
+*.egg-info/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
